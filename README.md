@@ -21,4 +21,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
+* Some shit about an agro reset
+
 * ...
